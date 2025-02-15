@@ -73,7 +73,7 @@ pip install pandas selenium
 ```
 
 ### 2. Como Rodar as Automations
-Cada script pode ser executado de forma independente. Para rodar, basta executar o arquivo desejado no terminal, desde que esteja na mesma pasta que **/librarys**:
+Cada script pode ser executado de forma independente. Para rodar, basta executar o arquivo desejado no terminal, desde que esteja na mesma pasta que **/libraries**:
 ```bash
 python ajustar_produtos_opencart.py
 python excluir_produtos_tiny.py
